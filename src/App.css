@@ -1,0 +1,23 @@
+.tarolo {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.row {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background-color:  ghostwhite;
+  padding: 15px;
+  border-radius: 5px;
+}
